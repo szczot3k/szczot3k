@@ -4,9 +4,11 @@
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
   <br><br>
   <samp>
-I'm Filip. I'm currently studying ICT in a Technical College.
+I'm Filip. I'm currently studying ICT in a Technical College. I'm 
   </samp>
 </p>
+
+- 📫 Reach me on: [Facebook](https://www.facebook.com/fkszczot/)
 
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=szczot3k.visitor-badge" alt="Visits counter"/>
